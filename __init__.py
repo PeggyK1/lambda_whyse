@@ -9,3 +9,4 @@ class MyDataFrame(pd.DataFrame):
 
 class MyDataFrame(pd.DataFrame):
     def t_v_t_split(self, train, val, test):
+        self.train = 
